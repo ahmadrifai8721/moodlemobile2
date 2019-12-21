@@ -1,7 +1,4 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
     "app_id": "smartschool.smkislam1durenan.sch.id",
     "appname": "Smart School SMK Islam 1 Durenan",
     "desktopappname": "Smart School SMK Islam 1 Durenan",
@@ -59,26 +56,12 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
     "siteurl": "http://smartschool.ip-dynamic.com:8080/moodle/",
     "sitename": "E-Learning SMKS Islam 1 Durenan",
     "multisitesdisplay": "",
