@@ -39,3 +39,6 @@ e2e/build
 !/desktop/assets/
 !/desktop/electron.js
 src/configconstants.ts
+*.xml
+*.xml
+src/config.json
